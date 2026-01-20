@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body style="margin:0; padding:0; display:flex; justify-content:center; align-items:center; height:100vh; background:transparent;">
+    <audio controls style="width: 100%;">
+        <source src="Suerte He Tenido (En Vivo) - Banda Corona Del Rey - Banda Corona Del Rey3" type="audio/mpeg">
+        Tu navegador no soporta el elemento de audio.
+    </audio>
+</body>
+</html>
