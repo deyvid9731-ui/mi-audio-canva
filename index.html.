@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html>
-<body style="margin:0; padding:0; display:flex; justify-content:center; align-items:center; height:100vh; background:transparent;">
-    <audio controls style="width: 100%;">
-        <source src="Suerte He Tenido (En Vivo) - Banda Corona Del Rey - Banda Corona Del Rey3" type="audio/mpeg">
+<head>
+    <style>
+        body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background: transparent; }
+        audio { filter: drop-shadow(2px 4px 6px black); width: 300px; }
+    </style>
+</head>
+<body>
+    <audio controls>
+        <source src="Suerte He Tenido (En Vivo) - Banda Corona Del Rey - Banda Corona Del Rey.mp3" type="audio/mpeg">
         Tu navegador no soporta el elemento de audio.
     </audio>
 </body>
